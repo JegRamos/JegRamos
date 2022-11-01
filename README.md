@@ -1,16 +1,41 @@
-### Hi there 👋
+#### Technologies I'm currently working with
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
+![VueJS](https://img.shields.io/badge/-Vue.JS-000000?style=flat&logo=vue.js)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+<br />
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Pusher](https://img.shields.io/badge/-Pusher-000000?style=flat&logo=pusher)
 
-<!--
-**JegRamos/JegRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Technologies I've worked with before
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express)
+![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+<br />
+![Android](https://img.shields.io/badge/-Native_Android-000000?style=flat&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![Android](https://img.shields.io/badge/-Java-000000?style=flat&logo=coffee)
+![Appium](https://img.shields.io/badge/-Appium-000000?style=flat&logo=android)
+![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Stuff that inspires me
+`🌴 Nature`
+`🪐 Astronomy`
+<br />
+`🎞️ A good movie`
+`🏀 Kobe Bryant`
+<br /> <br />
+
+🏆 [Best motivational speech](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
