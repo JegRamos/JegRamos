@@ -1,9 +1,6 @@
+<img height="60%" width="60%px" src="https://user-images.githubusercontent.com/36684168/199372936-8c2c9fd8-3ecc-4a70-8a98-449c2a485892.png" />
 
-<p float="left">
-<img height="216px" width="550px" src="https://user-images.githubusercontent.com/36684168/199372936-8c2c9fd8-3ecc-4a70-8a98-449c2a485892.png" />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="216px" width="216px" src="https://media.giphy.com/media/rJH66JzvgZy4PFN117/giphy.gif" />
-</p>
+<br />
   
 #### Technologies I'm currently working with
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
@@ -20,6 +17,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Pusher](https://img.shields.io/badge/-Pusher-000000?style=flat&logo=pusher)
 
+<br />
 
 #### Technologies I've worked with before
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express)
@@ -34,12 +32,14 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 
+<br />
 
 #### Stuff that inspires me
 `🌴 Nature`
 `🪐 Astronomy`
 `🎞️ A good movie`
 `🏀 Kobe Bryant`
+  
 <br /> <br />
 
 🏆 [Best motivational speech](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
