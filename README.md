@@ -23,6 +23,7 @@
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express)
 ![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![SocketIO](https://img.shields.io/badge/-Socket.IO-000000?style=flat&logo=socket.io)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Android](https://img.shields.io/badge/-Native_Android-000000?style=flat&logo=android)
