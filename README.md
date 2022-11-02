@@ -1,5 +1,9 @@
 
- <img height="60%" width="60%" src="https://user-images.githubusercontent.com/36684168/199372936-8c2c9fd8-3ecc-4a70-8a98-449c2a485892.png">
+<p float="left">
+<img height="55%" width="55%" src="https://user-images.githubusercontent.com/36684168/199372936-8c2c9fd8-3ecc-4a70-8a98-449c2a485892.png" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="216px" width="216px" src="https://media.giphy.com/media/rJH66JzvgZy4PFN117/giphy.gif" />
+</p>
   
 #### Technologies I'm currently working with
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
